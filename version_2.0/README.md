@@ -8,3 +8,6 @@
 
 
 클롤링한 데이터로 DF을 핸들링한 과정은 'saramIn_dataHandling.ipynb' 파일 
+
+
+### 사전설치: ChromeWebDriver ###
